@@ -19,6 +19,7 @@
 ## <h3>⚙️ Inicializando o Projeto:</h3>
 <ul>
 <li>npm install</li>
+<li>npm start server.js</li>
 </ul>
 
 ![Screen](https://cdn.discordapp.com/attachments/1129425322685767680/1148647885186019460/image.png)
