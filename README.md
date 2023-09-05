@@ -2,12 +2,12 @@
 
 <p><em>Este repositório contém o código-fonte para um jogo de adivinhar o Número Secreto, não podendo sortear o mesmo número caso seja sorteado.</em></p>
 
-## <h2>🖥️ Tecnologias Utilizadas:</h2>
+## **<h2>🖥️ Tecnologias Utilizadas:</h2>**
 <ul>
       <li>JavaScript.</li>
       <li>Visual Studio Code.</li>
 </ul>
-##<h2>🛠️ Bibliotecas Utilizadas: </h2>
+## **<h2>🛠️ Bibliotecas Utilizadas: </h2>**
 <ul>
       <li>Express.</li>
       <li>MongoDB.</li>
@@ -15,7 +15,7 @@
       <li>Nodemon.</li>
 </ul>
 
-##<h3>⚙️ Inicializando o Projeto:</h3>
+## **<h3>⚙️ Inicializando o Projeto:</h3>**
 <ul>
 <li>npm install</li>
 </ul>
