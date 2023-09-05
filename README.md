@@ -5,15 +5,15 @@
 
 <h2>🖥️ Tecnologias Utilizadas:</h2>
 <ul>
-      <li>JavaScript</li>
-      <li>Visual Studio Code</li>
+      <li>JavaScript.</li>
+      <li>Visual Studio Code.</li>
 </ul>
 <h3> Bibliotecas utilizadas: </h3>
 <ul>
-      <li>Express</li>
-      <li>MongoDB</li>
-      <li>Mongoose</li>
-      <li>Nodemon</li>
+      <li>Express.</li>
+      <li>MongoDB.</li>
+      <li>Mongoose.</li>
+      <li>Nodemon.</li>
 </ul>
 
 
