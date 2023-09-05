@@ -17,7 +17,9 @@
 </ul>
 
 <h1>Inicializando o Projeto:</h1>
+<ul>
 <li>npm install</li>
+</ul>
 
 
 ![Screen](https://cdn.discordapp.com/attachments/1129425322685767680/1148647885186019460/image.png)
