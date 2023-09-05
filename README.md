@@ -16,7 +16,7 @@
       <li>Nodemon.</li>
 </ul>
 
-<em><h3>Inicializando o Projeto:</h3></em>
+## <em><h3>Inicializando o Projeto:</h3></em>
 <ul>
 <li>npm install</li>
 </ul>
