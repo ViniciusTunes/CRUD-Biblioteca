@@ -8,7 +8,7 @@
       <li>JavaScript.</li>
       <li>Visual Studio Code.</li>
 </ul>
-<h3> Bibliotecas utilizadas: </h3>
+<h3>🛠️ Bibliotecas utilizadas: </h3>
 <ul>
       <li>Express.</li>
       <li>MongoDB.</li>
