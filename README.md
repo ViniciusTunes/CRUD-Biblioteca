@@ -23,6 +23,6 @@
 
 ![Screen](https://cdn.discordapp.com/attachments/1129425322685767680/1148647885186019460/image.png)
 
-##📱 Redes Sociais:
+## 📱 Redes Sociais:
 * Meu [GitHub](https://github.com/ViniciusTunes)
 * Meu [Instagram](https://www.instagram.com/yng.Vinicius/)
