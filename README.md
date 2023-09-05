@@ -16,6 +16,9 @@
       <li>Nodemon.</li>
 </ul>
 
+<h1>Inicializando o Projeto:</h1>
+<li>npm install</li>
+
 
 ![Screen](https://cdn.discordapp.com/attachments/1129425322685767680/1148647885186019460/image.png)
 
