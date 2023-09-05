@@ -1,6 +1,6 @@
 ## **__CRUD - Biblioteca | JavaScript | Back-end |__**
 
-<p><em>Este repositório contém o código-fonte para um jogo de adivinhar o Número Secreto, não podendo sortear o mesmo número caso seja sorteado.</em></p>
+<p><em>Este repositório contém o código-fonte para um CRUD de uma biblioteca, realizando o Create - Read - Update e Delete, de Livros, Autores e Funcionários.</em></p>
 
 ## <h2>🖥️ Tecnologias Utilizadas:</h2>
 <ul>
